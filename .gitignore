@@ -1,0 +1,18 @@
+# Spain responses
+ES/
+
+# All visualization images
+*.png
+
+# Test twitter search
+query.py
+search_twitter_es.py
+
+# Test networkx
+Group_Net.ipynb
+
+# Creating training set
+trainingset.ipynb
+
+# Clean set
+sentiments_model.ipynb

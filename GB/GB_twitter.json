@@ -1,0 +1,127 @@
+{
+	"ARS": {
+		"id": 42,
+		"hashtag": "#ARSFC",
+		"mention": "@Arsenal"
+	},
+	"AVL": {
+		"id": 66,
+		"hashtag": "#AVFC",
+		"mention": "@AVFCOfficial"
+	},
+	"BHA": {
+		"id": 51,
+		"hashtag": "#BHAFC",
+		"mention": "@OfficialBHAFC"
+	},
+	"BOU": {
+		"id": 35,
+		"hashtag": "#AFCB",
+		"mention": "@afcbournemouth"
+	},
+	"BUR": {
+		"id": 44,
+		"hashtag": "#BURFC",
+		"mention": "@BurnleyOfficial"
+	},
+	"CHE": {
+		"id": 49,
+		"hashtag": "#CFC",
+		"mention": "@ChelseaFC"
+	},
+	"CRY": {
+		"id": 52,
+		"hashtag": "#CPFC",
+		"mention": "@CPFC"
+	},
+	"EVE": {
+		"id": 45,
+		"hashtag": "#EFC",
+		"mention": "@Everton"
+	},
+	"FUL": {
+		"id": 36,
+		"hashtag": "#FFC",
+		"mention": "@FulhamFC"
+	},
+	"LEE": {
+		"id": 63,
+		"hashtag": "#LUFC",
+		"mention": "@LUFC"
+	},
+	"LEI": {
+		"id": 46,
+		"hashtag": "#LCFC",
+		"mention": "@LCFC"
+	},
+	"LIV": {
+		"id": 40,
+		"hashtag": "#LFC",
+		"mention": "@LFC"
+	},
+	"MCI": {
+		"id": 50,
+		"hashtag": "#MCFC",
+		"mention": "@ManCity"
+	},
+	"MUN": {
+		"id": 33,
+		"hashtag": "#MUFC",
+		"mention": "@ManUtd"
+	},
+	"NEW": {
+		"id": 34,
+		"hashtag": "#NUFC",
+		"mention": "@NUFC"
+	},
+	"NOR": {
+		"id": 71,
+		"hashtag": "#NOR",
+		"mention": "@NorwichCityFC"
+	},
+	"SHU": {
+		"id": 62,
+		"hashtag": "#SUFC",
+		"mention": "@SheffieldUnited"
+	},
+	"SA": {
+		"id": 41,
+		"hashtag": "#SaintsFC",
+		"mention": "@SouthamptonFC"
+	},
+	"SOU": {
+		"id": 41,
+		"hashtag": "#SaintsFC",
+		"mention": "@SouthamptonFC"
+	},
+	"SU": {
+		"id": 62,
+		"hashtag": "#SUFC",
+		"mention": "@SheffieldUnited"
+	},
+	"TOT": {
+		"id": 47,
+		"hashtag": "#THFC",
+		"mention": "@SpursOfficial"
+	},
+	"WAT": {
+		"id": 38,
+		"hashtag": "#WatfordFC",
+		"mention": "@WatfordFC"
+	},
+	"WBA": {
+		"id": 60,
+		"hashtag": "#WBA",
+		"mention": "@WBA"
+	},
+	"WHU": {
+		"id": 48,
+		"hashtag": "#WHU",
+		"mention": "@WestHam"
+	},
+	"WOL": {
+		"id": 39,
+		"hashtag": "#WWFC",
+		"mention": "@Wolves"
+	}
+}
