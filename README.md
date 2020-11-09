@@ -64,7 +64,7 @@ python process_tweets.py GB 2020 2
 ```
 
 ## Frequencies Visualization
-visualization_sentiment.ipynb contains some visualizations of the weekgame.
+[visualization_sentiment.ipynb](https://github.com/clarismiranda/Sentifootball/blob/master/visualization_sentiment.ipynb) contains some visualizations of the weekgame.
 
 ## Graph Visualization
-graph_sentiment.ipynb contains some visualizations of the weekgame from a graph theory perspective.
+[graph_sentiment.ipynb](https://github.com/clarismiranda/Sentifootball/blob/master/graph_sentiment.ipynb) contains some visualizations of the weekgame from a graph theory perspective.
