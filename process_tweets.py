@@ -2,11 +2,13 @@
     Analyzing Tweets
 """
 
+import sys
 import stanza
 import emoji
 import json
 import pandas as pd
 import re
+from langdetect import detect_langs, DetectorFactory
 from nltk.tokenize import TweetTokenizer
 
 # Tokenizes text using TweetTokenizer
@@ -32,6 +34,20 @@ def support(df, dct):
             current_label = -1
         label.append(current_label)
     return label
+
+# Returns 1 if row must be dropped, the maximum probability language is not english
+# Returns 2 when the text is empty
+# Not regularities in the library (better to no use)
+def multilingual(txt):
+    if len(txt) == 0:
+        return 2
+    if len(txt) > 0:
+        x = detect_langs(txt)
+        if x[0].lang == 'en':
+            return 0
+        else:
+            return 0
+    return 2
 
 # Using Stanford NLP to classify sentiment
 def stanza_check(txt):

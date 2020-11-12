@@ -4,6 +4,7 @@
 
 import json
 import os
+import sys
 import pandas as pd
 from pandas import json_normalize
 
@@ -59,7 +60,7 @@ for game in dirWeek:
         for tweet in tweets:
             tweet_update = {
                 "season": season,
-                "weekgame": weekgame,
+                "weekgame": week,
                 "home_team": home_team,
                 "away_team": away_team,
                 "favorite_count": tweet["favorite_count"],
